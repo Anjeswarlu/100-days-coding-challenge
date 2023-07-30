@@ -1,0 +1,10 @@
+TODAYS CONCEPTS:
+
+time: 15:50
+date: 30-07-2023
+
+1: Hello world program.
+2: Data Types.
+3: Arithmetic operations
+4: Literals.
+5: Conversions from one number system to another number system.
