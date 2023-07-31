@@ -1,0 +1,3 @@
+Today topic: Operators
+all types of operators are covered with basic examples
+and a lot more to be done
